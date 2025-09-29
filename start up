@@ -1,0 +1,13 @@
+install the required Python libraries. If you don't have them already, open your terminal or command prompt and run: 
+
+pip install requests beautifulsoup4 pandas
+
+
+
+Save: Save the code above as website_analyzer.py in a folder.
+Open Terminal/Command Prompt: Navigate to that folder.
+Run: Execute the script using Python: python website_analyzer.py
+Enter URL: The script will prompt you to enter a URL. Try https://www.google.com or https://www.wikipedia.org for a quick test.
+
+
+
